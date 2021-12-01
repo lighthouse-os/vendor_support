@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.aospextended.support.preference;
+package com.lighthouse.support.preference;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;

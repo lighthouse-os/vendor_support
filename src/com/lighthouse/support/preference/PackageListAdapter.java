@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.aospextended.support.preference;
+package com.lighthouse.support.preference;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.aospextended.support.R;
+import com.lighthouse.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;

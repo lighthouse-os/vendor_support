@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.aospextended.support.preference;
+package com.lighthouse.support.preference;
 
 import android.content.Context;
 import android.provider.Settings;

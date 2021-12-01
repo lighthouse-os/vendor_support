@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package org.aospextended.support.preference;
+package com.lighthouse.support.preference;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -33,7 +33,7 @@ import android.widget.TextView;
 
 import androidx.preference.*;
 
-import org.aospextended.support.R;
+import com.lighthouse.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();
